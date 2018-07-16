@@ -4,7 +4,7 @@ import com.earth2me.essentials.IConf;
 import com.earth2me.essentials.commands.WarpNotFoundException;
 import java.io.File;
 import java.util.Collection;
-import org.bukkit.Location;
+import cn.nukkit.Location;
 
 
 public interface IWarps extends IConf
