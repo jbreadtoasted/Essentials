@@ -4,8 +4,8 @@ import com.earth2me.essentials.User;
 import java.util.Iterator;
 import java.util.Set;
 import net.ess3.api.IEssentials;
-import org.bukkit.BanEntry;
-import org.bukkit.BanList;
+import cn.nukkit.BanEntry;
+import cn.nukkit.BanList;
 
 
 public class BanLookup
