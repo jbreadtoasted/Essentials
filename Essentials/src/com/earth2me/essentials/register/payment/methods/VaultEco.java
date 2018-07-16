@@ -3,8 +3,8 @@ package com.earth2me.essentials.register.payment.methods;
 import com.earth2me.essentials.register.payment.Method;
 import net.milkbowl.vault.Vault;
 import net.milkbowl.vault.economy.Economy;
-import org.bukkit.plugin.Plugin;
-import org.bukkit.plugin.RegisteredServiceProvider;
+import cn.nukkit.plugin.Plugin;
+import cn.nukkit.plugin.RegisteredServiceProvider;
 
 
 public class VaultEco implements Method
