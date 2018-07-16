@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.Map;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
-import org.bukkit.Location;
+import cn.nukkit.Location;
 
 
 @Data
