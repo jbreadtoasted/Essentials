@@ -2,7 +2,7 @@ package com.earth2me.essentials.perm;
 
 import java.util.Collections;
 import java.util.List;
-import org.bukkit.entity.Player;
+import cn.nukkit.entity.Player;
 
 
 public class NullPermissionsHandler implements IPermissionsHandler
