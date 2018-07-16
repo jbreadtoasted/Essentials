@@ -2,9 +2,9 @@ package com.earth2me.essentials.api;
 
 import com.earth2me.essentials.Trade;
 import net.ess3.api.IUser;
-import org.bukkit.Location;
-import org.bukkit.entity.Player;
-import org.bukkit.event.player.PlayerTeleportEvent;
+import cn.nukkit.Location;
+import cn.nukkit.entity.Player;
+import cn.nukkit.event.player.PlayerTeleportEvent;
 
 
 public interface ITeleport
