@@ -1,6 +1,6 @@
 package com.earth2me.essentials.register.payment;
 
-import org.bukkit.plugin.Plugin;
+import cn.nukkit.plugin.Plugin;
 
 
 /**
