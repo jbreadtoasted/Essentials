@@ -6,7 +6,7 @@ import com.iConomy.system.Account;
 import com.iConomy.system.BankAccount;
 import com.iConomy.system.Holdings;
 import com.iConomy.util.Constants;
-import org.bukkit.plugin.Plugin;
+import cn.nukkit.plugin.Plugin;
 
 
 /**
