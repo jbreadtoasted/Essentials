@@ -12,13 +12,13 @@ import net.ess3.api.MaxMoneyException;
 import net.ess3.api.events.SignBreakEvent;
 import net.ess3.api.events.SignCreateEvent;
 import net.ess3.api.events.SignInteractEvent;
-import org.bukkit.Material;
-import org.bukkit.block.Block;
-import org.bukkit.block.BlockFace;
-import org.bukkit.block.Sign;
-import org.bukkit.entity.Player;
-import org.bukkit.event.block.SignChangeEvent;
-import org.bukkit.inventory.ItemStack;
+import cn.nukkit.Material;
+import cn.nukkit.block.Block;
+import cn.nukkit.block.BlockFace;
+import cn.nukkit.block.Sign;
+import cn.nukkit.entity.Player;
+import cn.nukkit.event.block.SignChangeEvent;
+import cn.nukkit.inventory.ItemStack;
 
 
 public class EssentialsSign
