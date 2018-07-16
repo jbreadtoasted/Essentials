@@ -2,8 +2,8 @@ package com.earth2me.essentials.register.payment;
 
 import java.util.HashSet;
 import java.util.Set;
-import org.bukkit.plugin.Plugin;
-import org.bukkit.plugin.PluginManager;
+import cn.nukkit.plugin.Plugin;
+import cn.nukkit.plugin.PluginManager;
 
 
 /**
