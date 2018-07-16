@@ -2,7 +2,7 @@ package com.earth2me.essentials.api;
 
 import java.util.Collection;
 import net.ess3.api.IUser;
-import cn.nukkit.level.Location ;
+import cn.nukkit.Location ;
 
 
 public interface IJails extends IReload
