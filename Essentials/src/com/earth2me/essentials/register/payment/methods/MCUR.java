@@ -3,7 +3,7 @@ package com.earth2me.essentials.register.payment.methods;
 import com.earth2me.essentials.register.payment.Method;
 import me.ashtheking.currency.Currency;
 import me.ashtheking.currency.CurrencyList;
-import org.bukkit.plugin.Plugin;
+import cn.nukkit.plugin.Plugin;
 
 
 /**
