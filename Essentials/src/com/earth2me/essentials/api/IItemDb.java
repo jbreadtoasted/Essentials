@@ -3,7 +3,7 @@ package com.earth2me.essentials.api;
 
 import com.earth2me.essentials.User;
 import java.util.List;
-import org.bukkit.inventory.ItemStack;
+import cn.nukkit.inventory.ItemStack;
 
 
 public interface IItemDb
