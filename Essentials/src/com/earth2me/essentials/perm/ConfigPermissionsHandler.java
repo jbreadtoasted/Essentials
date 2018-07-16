@@ -1,8 +1,8 @@
 package com.earth2me.essentials.perm;
 
 import net.ess3.api.IEssentials;
-import org.bukkit.entity.Player;
-import org.bukkit.plugin.Plugin;
+import cn.nukkit.entity.Player;
+import cn.nukkit.plugin.Plugin;
 
 
 public class ConfigPermissionsHandler extends SuperpermsHandler
