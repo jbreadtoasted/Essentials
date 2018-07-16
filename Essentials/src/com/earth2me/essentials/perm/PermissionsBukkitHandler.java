@@ -6,8 +6,8 @@ import com.platymuus.bukkit.permissions.PermissionsPlugin;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-import org.bukkit.entity.Player;
-import org.bukkit.plugin.Plugin;
+import cn.nukkit.entity.Player;
+import cn.nukkit.plugin.Plugin;
 
 
 public class PermissionsBukkitHandler extends SuperpermsHandler
