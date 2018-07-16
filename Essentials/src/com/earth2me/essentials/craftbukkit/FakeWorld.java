@@ -5,16 +5,16 @@ import java.util.Collection;
 import java.util.List;
 import java.util.Set;
 import java.util.UUID;
-import org.bukkit.*;
-import org.bukkit.block.Biome;
-import org.bukkit.block.Block;
-import org.bukkit.entity.*;
-import org.bukkit.generator.BlockPopulator;
-import org.bukkit.generator.ChunkGenerator;
-import org.bukkit.inventory.ItemStack;
-import org.bukkit.metadata.MetadataValue;
-import org.bukkit.plugin.Plugin;
-import org.bukkit.util.Vector;
+import cn.nukkit.*;
+import cn.nukkit.block.Biome;
+import cn.nukkit.block.Block;
+import cn.nukkit.entity.*;
+import cn.nukkit.generator.BlockPopulator;
+import cn.nukkit.generator.ChunkGenerator;
+import cn.nukkit.inventory.ItemStack;
+import cn.nukkit.metadata.MetadataValue;
+import cn.nukkit.plugin.Plugin;
+import cn.nukkit.util.Vector;
 
 
 public class FakeWorld implements World
