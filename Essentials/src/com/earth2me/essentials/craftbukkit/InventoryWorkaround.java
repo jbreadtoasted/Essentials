@@ -2,10 +2,10 @@ package com.earth2me.essentials.craftbukkit;
 
 import java.util.HashMap;
 import java.util.Map;
-import org.bukkit.Bukkit;
-import org.bukkit.Material;
-import org.bukkit.inventory.Inventory;
-import org.bukkit.inventory.ItemStack;
+import cn.nukkit.Bukkit;
+import cn.nukkit.Material;
+import cn.nukkit.inventory.Inventory;
+import cn.nukkit.inventory.ItemStack;
 
 /*
  * This class can be removed when https://github.com/Bukkit/CraftBukkit/pull/193 is accepted to CraftBukkit
