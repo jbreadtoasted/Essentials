@@ -3,12 +3,12 @@ package com.earth2me.essentials.perm;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
-import org.bukkit.Bukkit;
-import org.bukkit.entity.Player;
-import org.bukkit.event.EventHandler;
-import org.bukkit.event.Listener;
-import org.bukkit.event.server.ServiceRegisterEvent;
-import org.bukkit.plugin.Plugin;
+import cn.nukkit.Bukkit;
+import cn.nukkit.entity.Player;
+import cn.nukkit.event.EventHandler;
+import cn.nukkit.event.Listener;
+import cn.nukkit.event.server.ServiceRegisterEvent;
+import cn.nukkit.plugin.Plugin;
 import org.tyrannyofheaven.bukkit.zPermissions.ZPermissionsService;
 
 
