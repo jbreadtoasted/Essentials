@@ -3,8 +3,8 @@ package com.earth2me.essentials.perm;
 import java.util.List;
 import net.crystalyx.bukkit.simplyperms.SimplyAPI;
 import net.crystalyx.bukkit.simplyperms.SimplyPlugin;
-import org.bukkit.entity.Player;
-import org.bukkit.plugin.Plugin;
+import cn.nukkit.entity.Player;
+import cn.nukkit.plugin.Plugin;
 
 public class SimplyPermsHandler extends SuperpermsHandler 
 {
