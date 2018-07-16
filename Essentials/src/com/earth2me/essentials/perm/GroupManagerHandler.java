@@ -5,8 +5,8 @@ import java.util.List;
 import org.anjocaido.groupmanager.GroupManager;
 import org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder;
 import org.anjocaido.groupmanager.permissions.AnjoPermissionsHandler;
-import org.bukkit.entity.Player;
-import org.bukkit.plugin.Plugin;
+import cn.nukkit.entity.Player;
+import cn.nukkit.plugin.Plugin;
 
 
 public class GroupManagerHandler implements IPermissionsHandler
