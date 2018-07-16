@@ -1,6 +1,6 @@
 package com.earth2me.essentials.craftbukkit;
 
-import org.bukkit.entity.Player;
+import cn.nukkit.entity.Player;
 
 
 public class SetExpFix
