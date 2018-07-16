@@ -4,7 +4,7 @@ import de.bananaco.bpermissions.api.ApiLayer;
 import de.bananaco.bpermissions.api.util.CalculableType;
 import java.util.Arrays;
 import java.util.List;
-import org.bukkit.entity.Player;
+import cn.nukkit.entity.Player;
 
 
 public class BPermissions2Handler extends SuperpermsHandler
